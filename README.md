@@ -3,10 +3,10 @@
 ## Backend Aplicación de Películas
 ### Proyecto de Backend Aplicación de Películas
 
-- BD en MongoDB # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend1.jpg)
-- Llamada de API desde Postman - All Movies # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend2.jpg)
-- Llamada de API desde Postman - Single Movies # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend3.jpg)
-- Llamada de API desde Postman - Create a new review # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend4.jpg)
+- BD en MongoDB : ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend1.jpg)
+- Llamada de API desde Postman - All Movies : ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend2.jpg)
+- Llamada de API desde Postman - Single Movies : ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend3.jpg)
+- Llamada de API desde Postman - Create a new review : ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/movies/main/src/main/resources/static/backend4.jpg)
 
 ### Frontend Aplicación de Películas
 
