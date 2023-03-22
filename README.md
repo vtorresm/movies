@@ -25,3 +25,14 @@ Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `Environment settings`
+
+In the project directory, you can run:
+
+```java
+MONGODB_DATABASE="BD NAME"
+MONGODB_USER="USER"
+MONGODB_PASSWORD="PASSWORD"
+MONGODB_CLUSTER="CLUSTER"
+```
